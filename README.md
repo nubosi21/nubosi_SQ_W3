@@ -32,17 +32,19 @@ Press **ENTER** to start or rematch.
 The console will show any errors in your sketch.
 
 ## Assets
+| File                                      | Source                                |
+|-------------------------------------------|----------------------------------------|
+| `assets/sounds/punch_1.wav` – `punch_9.wav` [3] | Punch SFX — OpenGameArt.org            |
+| `assets/sounds/win.wav` [1]               | listener4me, Win Sound Effect          |
+| `assets/sounds/background.mp3` [2]        | Matthew Pablo, Space Dimensions        |
 
-| File                                        | Source                                            |
-| ------------------------------------------- | ------------------------------------------------- |
-| `assets/sounds/punch_1.wav` – `punch_9.wav` | Punch SFX — OpenGameArt.org                       |
-| `assets/sounds/win.wav`                     | listener4me, Win Sound Effect — OpenGameArt.org   |
-| `assets/sounds/background.mp3`              | Matthew Pablo, Space Dimensions — OpenGameArt.org |
 
 ## References
+[1] listener4me. n.d. Win Sound Effect. OpenGameArt.org. 
+    Retrieved May 1, 2026 from https://opengameart.org/content/win-sound-effect
 
-listener4me. n.d. _Win Sound Effect_. OpenGameArt.org. Retrieved May 1, 2026, from https://opengameart.org/content/win-sound-effect
+[2] Matthew Pablo. n.d. Space Dimensions (Techno Version). OpenGameArt.org. 
+    Retrieved May 1, 2026 from https://opengameart.org/content/space-dimensions-techno-version
 
-Pablo, Matthew. n.d. _Space Dimensions (Techno Version)_. OpenGameArt.org. Retrieved May 1, 2026, from https://opengameart.org/content/space-dimensions-techno-version
-
-Punch SFX. n.d. OpenGameArt.org. Retrieved May 1, 2026, from https://opengameart.org/content/punch-sfx
+[3] Punch SFX. n.d. Punch SFX. OpenGameArt.org. 
+    Retrieved May 1, 2026 from https://opengameart.org/content/punch-sfx
